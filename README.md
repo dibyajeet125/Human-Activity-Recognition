@@ -45,3 +45,5 @@ Data Preprocessing: Scripts for loading and preprocessing the UCI HAR dataset.
 Model Implementations: Code for each machine learning model, including hyperparameter tuning using Grid Search.
 
 Evaluation Metrics: Functions for calculating accuracy, confusion matrices, and classification reports.
+
+DATASET : https://www.kaggle.com/datasets/drsaeedmohsen/ucihar-dataset
